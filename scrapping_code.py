@@ -143,3 +143,31 @@ df = df.dropna(subset=['Price', 'Year', 'Mileage'], how='all')
 df.to_csv("cleaned_used_cars_data.csv", index=False, encoding="utf-8")
 
 print("Data cleaning complete. Saved to cleaned_used_cars_data.csv")
+
+import mysql.connector
+import pandas as pd
+connection = mysql.connector.connect(host='localhost', user='root', password="mysql", database='used_car') 
+cursor = connection.cursor()
+
+df = pd.read_csv('cleaned_used_cars_data.csv')
+#insert into MySQL table
+for _, row in df.iterrows():
+    cursor.execute("""
+        INSERT INTO cleaned_used_cars_data (City, Car_Name, Price, Mileage, Fuel_Type, Transmission, Year)
+        VALUES (%s, %s, %s, %s, %s, %s, %s)
+    """, (row["City"], row["Car_Name"], row["Price"], row["Mileage"], row["Fuel_Type"], row["Transmission"], row["Year"]))
+
+connection.commit()
+print("Data inserted successfully")
+
+querry = "SELECT * FROM cleaned_used_cars_data"
+cursor.execute(querry)
+rows = cursor.fetchall()
+for row in rows:
+    print(row)
+
+import mysql.connector
+import pandas as pd
+connection = mysql.connector.connect(host='localhost', user='root', password="mysql", database='used_car') 
+
+connection.close()
