@@ -1,0 +1,211 @@
+City,Car_Name,Price,Mileage,Fuel_Type,Transmission,Year
+New Delhi,Mercedes-Benz GLC 200,5200000,39524,Petrol,Automatic,2022
+New Delhi,Mercedes-Benz GLC 200,5200000,39524,Petrol,Automatic,2022
+New Delhi,Mercedes-Benz AMG C43 4Matic,8500000,2000,Petrol,Automatic,2023
+New Delhi,Hyundai Creta SX Opt IVT,1650000,12000,Petrol,Automatic,2023
+New Delhi,Kia Sonet HTK Plus BSVI,835000,27000,Petrol,Manual,2022
+New Delhi,Mahindra XUV700 AX7 6Str AT,2375000,19000,Petrol,Automatic,2024
+New Delhi,Mahindra XUV500 W4,575000,73000,Diesel,Manual,2017
+New Delhi,Hyundai Creta 1.6 VTVT AT SX Plus,710000,76000,Petrol,Automatic,2016
+New Delhi,Mercedes-Benz GLS 450 4MATIC BSVI,10800000,20000,Petrol,Automatic,2022
+New Delhi,Honda City i VTEC S,490000,47000,Petrol,Manual,2016
+New Delhi,Kia Seltos GTX Plus,1550000,14100,Petrol,Manual,2023
+New Delhi,Land Rover Range Rover Evoque 2.0 R-Dynamic SE diesel 2020-2021,5150000,45000,Diesel,Automatic,2021
+New Delhi,Maruti Swift LXI,249000,78000,Petrol,Manual,2013
+New Delhi,Hyundai Venue S Turbo DCT,737000,42828,Petrol,Automatic,2020
+New Delhi,Mercedes-Benz C-Class C 220 CDI Avantgarde,1650000,97000,Diesel,Automatic,2016
+New Delhi,Jeep Compass 1.4 Limited Option,950000,67000,Petrol,Automatic,2018
+New Delhi,Mahindra XUV700 AX5 7 Str Diesel AT,2050000,8200,Diesel,Automatic,2023
+New Delhi,Tata Punch Creative,725000,14000,Petrol,Manual,2023
+New Delhi,BMW 3 Series GT Luxury Line,1795000,78000,Diesel,Automatic,2017
+New Delhi,Honda City i-VTEC CVT ZX,875000,37000,Petrol,Automatic,2018
+New Delhi,Honda Amaze 2nd Gen VX CVT BSVI,825000,19000,Petrol,Automatic,2022
+Mumbai,Honda Brio 1.2 VX AT,499000,67000,Petrol,Automatic,2017
+Mumbai,Honda Brio 1.2 VX AT,499000,67000,Petrol,Automatic,2017
+Mumbai,Tata Nexon 1.2 Revotron XMA,761000,32900,Petrol,Automatic,2020
+Mumbai,Mercedes-Benz GLC 220d 4MATIC,4500000,23000,Diesel,Automatic,2022
+Mumbai,Hyundai Creta 1.6 VTVT AT SX Plus,844999,59637,Petrol,Automatic,2017
+Mumbai,Mitsubishi Pajero Sport 4X2 AT,1249000,78000,Diesel,Automatic,2015
+Mumbai,Kia Seltos HTX IVT G,1375000,28000,Petrol,Automatic,2021
+Mumbai,Hyundai i20 1.2 Magna,175000,70000,Petrol,Manual,2010
+Mumbai,Maruti Alto 800 LX,169000,61000,Petrol,Manual,2013
+Mumbai,Honda City i VTEC CVT VX,475000,80000,Petrol,Automatic,2015
+Mumbai,Maruti Wagon R CNG LXI,515000,41551,CNG,Manual,2020
+Mumbai,Mahindra XUV500 W8 FWD,450000,60267,Diesel,Manual,2012
+Mumbai,Hyundai Creta S Plus Knight BSVI,1465000,30000,Petrol,Manual,2022
+Mumbai,Honda Amaze VX AT i-Vtech,486000,80000,Petrol,Automatic,2014
+Mumbai,Hyundai Creta 1.6 VTVT SX Plus,596000,44781,Petrol,Manual,2016
+Mumbai,MG Hector 1.5 Turbo Savvy Pro CVT BSVI,2165000,9000,Petrol,Automatic,2024
+Mumbai,Toyota Innova Hycross ZX Hybrid,3275000,32000,Petrol,Automatic,2023
+Mumbai,Volkswagen Tiguan 2.0 TDI Highline,2100000,57000,Diesel,Automatic,2018
+Mumbai,Tata Nexon 1.2 Revotron XMA,725000,26036,Petrol,Automatic,2019
+Mumbai,Mercedes-Benz GLE 300d 4Matic,9495000,7000,Diesel,Automatic,2023
+Mumbai,Maruti Ciaz ZXi,475000,22000,Petrol,Manual,2015
+Bangalore,BMW 3 Series 320d,975000,87000,Diesel,Automatic,2011
+Bangalore,BMW 3 Series 320d,975000,87000,Diesel,Automatic,2011
+Bangalore,Tata Tiago XT BSVI,546000,3490,Petrol,Manual,2022
+Bangalore,Skoda Laura 1.8 TSI Ambiente,495000,104587,Petrol,Manual,2010
+Bangalore,Kia Sonet GTX Plus Diesel BSVI,988000,56820,Diesel,Manual,2020
+Bangalore,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,1129000,195000,Diesel,Manual,2014
+Bangalore,Maruti Baleno Zeta,642000,75555,Petrol,Manual,2020
+Bangalore,Jeep Compass Model S DCT BSVI,2285000,25637,Petrol,Automatic,2022
+Bangalore,BMW 5 Series 520d Luxury Line,3750000,19000,Diesel,Automatic,2018
+Bangalore,Tata Manza Aura (ABS) Quadrajet BS IV,250000,92000,Diesel,Manual,2012
+Bangalore,Maruti Grand Vitara Sigma,1075000,6235,Petrol,Manual,2023
+Bangalore,Maruti Baleno 1.2 Delta,523000,44758,Petrol,Manual,2017
+Bangalore,Mercedes-Benz GLS 400d 4MATIC BSVI,12600000,21000,Diesel,Automatic,2023
+Bangalore,Maruti Ertiga ZDI,579000,88143,Diesel,Manual,2012
+Bangalore,Maruti Wagon R VXI 1.2,445000,43949,Petrol,Manual,2016
+Bangalore,Hyundai i20 1.2 Magna,355000,34688,Petrol,Manual,2011
+Bangalore,Tata Tiago XZA Plus,599000,32152,Petrol,Automatic,2020
+Bangalore,Mahindra XUV500 W9 AT 1.99,1195000,89000,Diesel,Automatic,2017
+Bangalore,Tata Nexon XM S BSVI,844999,28797,Petrol,Manual,2021
+Bangalore,Hyundai Creta 1.6 CRDi SX Plus,1145000,94000,Diesel,Manual,2017
+Bangalore,MG Hector Sharp Diesel MT,2025000,13000,Diesel,Manual,2021
+Chennai,Audi Q7 Bold Edition,8700000,4211,Petrol,Automatic,2024
+Chennai,Audi Q7 Bold Edition,8700000,4211,Petrol,Automatic,2024
+Chennai,Volkswagen Taigun 1.0 TSI Topline AT BSVI,1550000,13000,Petrol,Automatic,2022
+Chennai,Maruti Wagon R ZXI BSVI,585000,13500,Petrol,Manual,2022
+Chennai,Maruti Wagon R ZXI 1.2,585000,4965,Petrol,Manual,2021
+Chennai,Audi Q3 Technology,4500000,6083,Petrol,Automatic,2024
+Chennai,Hyundai i10 Sportz,285000,36000,Petrol,Manual,2012
+Chennai,Hyundai Verna S Plus,999000,11000,Petrol,Manual,2022
+Chennai,Volkswagen Ameo 1.2 MPI Comfortline,403000,59153,Petrol,Manual,2017
+Chennai,Audi A6 45 TFSI Technology WO Matrix,5700000,3300,Petrol,Automatic,2024
+Chennai,Maruti Ertiga VXI AT Petrol,925000,16400,Petrol,Automatic,2019
+Chennai,Renault KWID Climber 1.0 AMT Opt DT,470000,18134,Petrol,Automatic,2022
+Chennai,Mahindra TUV 300 T8,675000,61604,Diesel,Manual,2016
+Chennai,Audi A4 Technology,4000000,6400,Petrol,Automatic,2024
+Chennai,Hyundai i20 1.4 CRDi Magna,295000,163290,Diesel,Manual,2011
+Chennai,Mahindra Bolero Neo N8 BSVI,890000,60000,Diesel,Manual,2022
+Chennai,Volkswagen Vento 1.5 TDI Highline Plus AT,640000,99388,Diesel,Automatic,2019
+Chennai,Audi A6 45 TFSI Technology WO Matrix,5700000,3500,Petrol,Automatic,2024
+Chennai,MG Hector Sharp DCT,1253000,15061,Petrol,Automatic,2019
+Chennai,Skoda Octavia Laurin and Klement,2790000,10000,Petrol,Automatic,2023
+Chennai,Kia Seltos HTK Plus AT D,1625000,20000,Diesel,Automatic,2022
+Hyderabad,Ford Ecosport 1.5 Diesel Titanium BSIV,795000,128542,Diesel,Manual,2019
+Hyderabad,Ford Ecosport 1.5 Diesel Titanium BSIV,795000,128542,Diesel,Manual,2019
+Hyderabad,Maruti Alto K10 LXI,190000,58267,Petrol,Manual,2011
+Hyderabad,Maruti Swift Dzire VDi,250000,142038,Diesel,Manual,2008
+Hyderabad,Maruti XL6 Zeta,1100000,62000,Petrol,Manual,2021
+Hyderabad,Maruti Swift VDI BSIV,530000,81562,Diesel,Manual,2016
+Hyderabad,Maruti Wagon R AMT VXI,520000,78579,Petrol,Automatic,2019
+Hyderabad,Maruti Ciaz Delta Automatic BSIV,650000,70244,Petrol,Automatic,2019
+Hyderabad,Tata Indica eLE,140000,85000,Diesel,Manual,2015
+Hyderabad,Maruti Vitara Brezza ZDi Plus,980000,73899,Diesel,Manual,2020
+Hyderabad,Honda City i DTec VX,640000,90490,Diesel,Manual,2016
+Hyderabad,Tata Tiago 1.2 Revotron XZ,401000,72223,Petrol,Manual,2019
+Hyderabad,Maruti Wagon R Stingray VXI,264000,77610,Petrol,Manual,2014
+Hyderabad,Maruti Baleno Zeta,835000,50232,Petrol,Manual,2023
+Hyderabad,Mahindra Scorpio S 11 7CC,1900000,3876,Diesel,Manual,2024
+Hyderabad,Volkswagen Polo 1.5 TDI Comfortline,500000,75437,Diesel,Manual,2017
+Hyderabad,Tata Tiago 1.2 Revotron XZ,438000,29040,Petrol,Manual,2018
+Hyderabad,Mercedes-Benz E-Class Exclusive E 220 d BSIV,5350000,8000,Diesel,Automatic,2020
+Hyderabad,Ford Figo Diesel Titanium,150000,120000,Diesel,Manual,2011
+Hyderabad,Maruti XL6 Alpha AT BSVI,1375000,12000,Petrol,Automatic,2022
+Hyderabad,MG Hector Sharp Diesel MT,1250000,55051,Diesel,Manual,2020
+Pune,Audi Q3 Bold Edition,4600000,9000,Petrol,Automatic,2024
+Pune,Audi Q3 Bold Edition,4600000,9000,Petrol,Automatic,2024
+Pune,Maruti Baleno 1.2 Delta,625000,54001,Petrol,Manual,2017
+Pune,Maruti Celerio VXI,409999,79001,Petrol,Manual,2016
+Pune,Maruti Swift ZXi Plus,850000,8001,Petrol,Manual,2024
+Pune,Audi A4 Technology,4000000,7000,Petrol,Automatic,2024
+Pune,Honda City i VTEC V,599000,46000,Petrol,Manual,2016
+Pune,Volkswagen Ameo 1.5 TDI Highline Plus,650000,54000,Diesel,Manual,2019
+Pune,Volkswagen Polo 1.2 MPI Highline,409999,67001,Petrol,Manual,2014
+Pune,Mahindra XUV500 W8 FWD,495000,149000,Diesel,Manual,2012
+Pune,Tata Nexon 1.5 Revotorq XZA Plus,725000,53001,Diesel,Automatic,2018
+Pune,Toyota Yaris G CVT BSIV,750000,20001,Petrol,Automatic,2018
+Pune,Honda City 1.5 V MT,210000,115001,Petrol,Manual,2010
+Pune,Maruti Alto K10 2010-2014 VXI,195000,89000,Petrol,Manual,2012
+Pune,Maruti Celerio VXI Optional AMT BSIV,409999,91455,Petrol,Automatic,2018
+Pune,Maruti Ignis Sigma BSVI,445000,65000,Petrol,Manual,2021
+Pune,Maruti Ertiga VXI AT,894000,46869,Petrol,Automatic,2021
+Pune,Toyota Innova 2.5 G1 BSIV,780000,145000,Diesel,Manual,2012
+Pune,Hyundai Elantra S,599000,82000,Petrol,Manual,2016
+Pune,Hyundai Grand i10 1.2 Kappa Asta,511000,32660,Petrol,Manual,2019
+Pune,Mini Cooper Hatch,1400000,49300,Petrol,Automatic,2012
+Kolkata,Jeep Compass Model S DCT BSVI,1650000,21000,Petrol,Automatic,2022
+Kolkata,Jeep Compass Model S DCT BSVI,1650000,21000,Petrol,Automatic,2022
+Kolkata,Nissan Magnite XV Premium BSVI,580000,14000,Petrol,Manual,2022
+Kolkata,Honda City i VTEC CVT VX,459999,27000,Petrol,Automatic,2016
+Kolkata,Kia Seltos HTK Plus iMT,1071000,28967,Petrol,Manual,2022
+Kolkata,Mercedes-Benz B Class B180 Sports,585000,65000,Petrol,Automatic,2013
+Kolkata,Datsun RediGO 1.0 T Option,195000,10995,Petrol,Manual,2017
+Kolkata,Jaguar XE Prestige,1598000,37652,Petrol,Automatic,2016
+Kolkata,Jeep Compass 1.4 Sport BSVI,894999,43000,Petrol,Manual,2021
+Kolkata,BMW 5 Series 520d Modern Line,2000000,60000,Diesel,Automatic,2014
+Kolkata,Mahindra Alturas G4 4X4 AT BSIV,1725000,41400,Diesel,Automatic,2019
+Kolkata,Honda Amaze S Petrol BSIV,409999,31680,Petrol,Manual,2019
+Kolkata,Tata Altroz XZ Diesel BSVI,688000,22741,Diesel,Manual,2021
+Kolkata,Honda City VX,1135000,16000,Petrol,Manual,2023
+Kolkata,Volkswagen Virtus GT Plus DSG,1650000,2043,Petrol,Automatic,2024
+Kolkata,Honda Jazz X,215000,53000,Petrol,Manual,2012
+Kolkata,Kia Seltos HTK Plus D,877999,65368,Diesel,Manual,2020
+Kolkata,Jeep Compass 2.0 Limited Plus,1200000,58000,Diesel,Manual,2020
+Kolkata,Kia Sonet HTK Plus Turbo iMT BSVI,851000,7000,Petrol,Manual,2022
+Kolkata,Kia Carens Luxury Plus Turbo 2022-2023,1130000,24000,Petrol,Manual,2022
+Kolkata,Maruti Baleno Delta,515000,23000,Petrol,Manual,2020
+Ahmedabad,BMW 5 Series 520d Luxury Line,4900000,35000,Diesel,Automatic,2021
+Ahmedabad,BMW 5 Series 520d Luxury Line,4900000,35000,Diesel,Automatic,2021
+Ahmedabad,Nissan Magnite XV BSVI,515000,15846,Petrol,Manual,2021
+Ahmedabad,Maruti Ertiga CNG VXI,925000,66000,CNG,Manual,2020
+Ahmedabad,Hyundai Tucson 2.0 e-VGT 2WD MT,875000,55000,Diesel,Manual,2017
+Ahmedabad,Kia Sonet HTK Plus BSVI,799000,34000,Petrol,Manual,2020
+Ahmedabad,Mahindra Thar LX 4WD Hard Top AT BSVI,1097000,48397,Petrol,Automatic,2021
+Ahmedabad,Maruti Baleno 1.2 Sigma,383000,89776,Petrol,Manual,2016
+Ahmedabad,Hyundai i20 Asta 1.2,535000,47000,Petrol,Manual,2016
+Ahmedabad,Audi A6 45 TFSI Technology BSVI,4900000,31000,Petrol,Automatic,2023
+Ahmedabad,Hyundai Grand i10 Sportz CNG,434999,55000,Petrol,Manual,2016
+Ahmedabad,Renault KWID RXL,256000,77592,Petrol,Manual,2019
+Ahmedabad,Hyundai Grand i10 Nios Sportz,625000,45000,Petrol,Manual,2021
+Ahmedabad,Tata Safari XZ Plus BSVI,2050000,30500,Diesel,Manual,2023
+Ahmedabad,Volkswagen Polo 1.0 TSI Comfortline,566000,62045,Petrol,Manual,2021
+Ahmedabad,Maruti Baleno 1.2 CVT Delta,400000,55000,Petrol,Automatic,2016
+Ahmedabad,Hyundai Grand i10 Nios Sportz Turbo,570000,51327,Petrol,Manual,2020
+Ahmedabad,Hyundai i20 1.2 Asta,540000,95000,Petrol,Manual,2018
+Ahmedabad,Honda City i VTEC SV,565000,57000,Petrol,Manual,2016
+Ahmedabad,Honda Amaze 2nd Gen VX,405000,52051,Petrol,Manual,2015
+Ahmedabad,Maruti Celerio ZXI,387000,72470,Petrol,Manual,2017
+Jaipur,Volkswagen Jetta 2.0L TDI Comfortline,360000,160000,Diesel,Manual,2010
+Jaipur,Volkswagen Jetta 2.0L TDI Comfortline,360000,160000,Diesel,Manual,2010
+Jaipur,Mahindra Thar LX 4WD Hard Top AT BSVI,1275000,22000,Petrol,Automatic,2022
+Jaipur,Volkswagen Vento 1.0 TSI Highline,811000,23100,Petrol,Manual,2022
+Jaipur,Maruti Ritz VDi,211000,68000,Diesel,Manual,2012
+Jaipur,Tata Safari XZA Plus 6 Str AT BSVI,1600000,90000,Diesel,Automatic,2012
+Jaipur,Honda City V MT,1025000,10000,Petrol,Manual,2022
+Jaipur,Hyundai i20 Sportz,785000,35000,Petrol,Manual,2023
+Jaipur,MG Hector Plus Sharp DCT,1225000,47100,Petrol,Automatic,2020
+Jaipur,Volkswagen Vento 1.5 TDI Highline Plus,623000,100000,Diesel,Manual,2017
+Jaipur,Maruti Ciaz Alpha BSVI,790000,70000,Petrol,Manual,2021
+Jaipur,Mahindra Thar LX 4WD Hard Top Diesel BSVI,1485000,42000,Diesel,Manual,2022
+Jaipur,Maruti SX4 VDI,290000,1200000,Diesel,Manual,2013
+Jaipur,BMW X6 xDrive 40d,1800000,76000,Petrol,Automatic,2013
+Jaipur,Skoda Superb Style 2.0 TDI AT,1625000,89100,Diesel,Automatic,2017
+Jaipur,BMW 3 Series 320d Luxury Line,5090000,22000,Diesel,Automatic,2022
+Jaipur,BMW X5 xDrive 30d Design Pure Experience 5 Seater,3525000,85000,Diesel,Automatic,2016
+Jaipur,Honda CR-V 2.4L 4WD MT,280000,160000,Petrol,Manual,2008
+Jaipur,Hyundai Elantra VTVT SX,1375000,20000,Petrol,Manual,2021
+Jaipur,BMW 5 Series 520d Luxury Line,5000000,13500,Diesel,Automatic,2020
+Jaipur,Mercedes-Benz CLA Urban Sport 200d,2400000,50000,Diesel,Automatic,2018
+Lucknow,Maruti Swift 1.3 VXi,295000,160000,Petrol,Manual,2010
+Lucknow,Maruti Swift 1.3 VXi,295000,160000,Petrol,Manual,2010
+Lucknow,Tata Tiago 1.2 Revotron XE,315000,21433,Petrol,Manual,2018
+Lucknow,Kia Seltos HTE Diesel,750000,70753,Diesel,Manual,2020
+Lucknow,Maruti Wagon R VXI CNG BSVI,575000,60000,CNG,Manual,2022
+Lucknow,Skoda Yeti Elegance 4X2,600000,56954,Diesel,Manual,2014
+Lucknow,Hyundai i20 Magna 1.2,422000,77483,Petrol,Manual,2016
+Lucknow,Tata Tiago XT CNG BSVI,624000,61142,CNG,Manual,2022
+Lucknow,Hyundai i20 1.2 Magna Executive,430000,73258,Petrol,Manual,2017
+Lucknow,Hyundai Grand i10 1.2 Kappa Sportz Option,400000,40000,Petrol,Manual,2018
+Lucknow,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,650000,120000,Diesel,Manual,2014
+Lucknow,Maruti Alto K10 VXI,375000,61000,Petrol,Manual,2023
+Lucknow,Hyundai i20 Asta Option BSIV,599000,75926,Petrol,Manual,2020
+Lucknow,Hyundai i20 Sportz BSVI,725000,21710,Petrol,Manual,2021
+Lucknow,Mahindra Scorpio S5,1120000,29814,Diesel,Manual,2022
+Lucknow,Ford Ecosport 1.5 Diesel Titanium BSIV,690000,760000,Diesel,Manual,2018
+Lucknow,Hyundai Creta 1.6 CRDi SX,675000,82000,Diesel,Manual,2016
+Lucknow,Maruti Omni E MPI STD BSIV,190000,68000,Petrol,Manual,2017
+Lucknow,Maruti Wagon R VXI BS IV,325000,47000,Petrol,Manual,2016
+Lucknow,MG Hector Plus Sharp Pro 7 Str,1900000,18122,Petrol,Manual,2024
+Lucknow,Nissan Kicks Diesel,550000,124524,Diesel,Manual,2019
