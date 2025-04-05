@@ -29,7 +29,8 @@ This project scrapes used car listings from [CarDekho](https://www.cardekho.com/
 
 ```bash
 .
-├── used_car_scraper.py         # Main Python script
+├── scrapping_code.py         # Main Python script
 ├── used_cars_data.csv          # Raw scraped data (auto-generated)
 ├── cleaned_used_cars_data.csv  # Cleaned data (auto-generated)
-├── README.md                   # This file
+├─ README.md                   # This file
+| Used-car-price-analysis.pbix  # Power Bi file
